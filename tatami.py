@@ -40,7 +40,8 @@ st.markdown(
 st.markdown(
     """
     <div style="text-align: center; margin-bottom: 8px;">
-        <span style="font-size: 48px;">🎋</span>
+        <span style="font-size: 64px;">🏡</span>
+
     </div>
     """,
     unsafe_allow_html=True,
